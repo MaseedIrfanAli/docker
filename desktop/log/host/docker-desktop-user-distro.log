@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-13T17:52:10.796445200Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/Maseed Irfan Ali/.docker/contexts
+[2023-05-13T17:52:10.816454500Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/Maseed Irfan Ali/.docker/contexts os.Symlink <HOME>/.docker/contexts -> /mnt/c/Users/Maseed Irfan Ali/.docker/contexts
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-13T17:52:11.336665900Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Maseed Irfan Ali/.aws, linkPath = <HOME>/.aws
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-13T17:52:11.862319000Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Maseed Irfan Ali/.azure, linkPath = <HOME>/.azure
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-13T17:52:12.381912100Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Maseed Irfan Ali/.docker/features.json, linkPath = ~/.docker/features.json
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T08:48:19.376100700Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/Maseed Irfan Ali/.docker/contexts
+[2023-05-14T08:48:19.417128600Z][docker-desktop-user-distro][I] syncContextStores <HOME>/.docker/contexts <-> /mnt/c/Users/Maseed Irfan Ali/.docker/contexts: syncNoop
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T08:48:19.900033500Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Maseed Irfan Ali/.aws, linkPath = <HOME>/.aws
+[2023-05-14T08:48:19.918424300Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.aws to /mnt/c/Users/Maseed Irfan Ali/.aws: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T08:48:20.449937300Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Maseed Irfan Ali/.azure, linkPath = <HOME>/.azure
+[2023-05-14T08:48:20.485490200Z][docker-desktop-user-distro][I] no need to symlink <HOME>/.azure to /mnt/c/Users/Maseed Irfan Ali/.azure: they are the same path already
+-------------------------------------------------------------------------------->8
+-------------------------------------------------------------------------------->8
+[2023-05-14T08:48:21.004496700Z][docker-desktop-user-distro][I] linkPathToWindows windowsPath = /mnt/c/Users/Maseed Irfan Ali/.docker/features.json, linkPath = ~/.docker/features.json
